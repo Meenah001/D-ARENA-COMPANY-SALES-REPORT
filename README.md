@@ -95,6 +95,21 @@ It shows the trend of sales on yearly basis in correlation with the segment. The
 
 # Findings and Recommendation
 
+. In order to increase the sales in the other mode of shipment,most especially the 'Same day' ship mode. The quality should be increased, this will attract people of high taste too
+
+---
+
+. To increase the sales in US, sales promotion should be made through advertisement. This would increase people's awareness
+
+---
+
+. Home office product which recorded the lowest sales might be due to the below reasons;
+
+1) It's pricey
+2) It is not of high quality
+
+The above reasons could be solved if the price is been reduced, also if the quality increased
+
 
 
 
