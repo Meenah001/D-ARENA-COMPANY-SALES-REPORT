@@ -110,6 +110,13 @@ It shows the trend of sales on yearly basis in correlation with the segment. The
 
 The above reasons could be solved if the price is been reduced, also if the quality increased
 
+---
+
+# REPORT
+
+![Sales report](https://user-images.githubusercontent.com/97677904/209470797-acfdf104-dd3d-4a55-b358-e58c772a7178.png)
+
+
 
 
 
