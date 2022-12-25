@@ -59,6 +59,52 @@ The initial Order ID was split into three different column. These are "Country",
 
 Now, the data is cleaned and set to be analyzed
 
+---
+
+# Data Analysis and Visualization
+
+![Sales by ship mode](https://user-images.githubusercontent.com/97677904/209469096-c101e8d6-a8da-468d-b48a-4b5981fd1679.png)
+
+Amongst the four mode of shipment available in D'arena company, the 'Standard Class' had the highest sales with over $227k while 'Same day' recorded the lowest sales of about $21k
+
+---
+
+![Sales by country](https://user-images.githubusercontent.com/97677904/209469228-5ca24b82-7480-475b-be3b-acf00974fb1c.png)
+
+Between the two countries(i.e Canada and US) the company focused it sales on. Canada (CA) recorded the highest sales of $332k and US with the lowest sales of $60k
+
+---
+
+![Sales by segment ](https://user-images.githubusercontent.com/97677904/209469415-71003674-4aff-4ca7-a876-67cd05382a03.png)
+
+The above image shows the total sales made by segment. The 'Consumer' segment had the highest sales of $195k folow by the 'Corporate' segment then the 'Home office' segment which had the lowest sales of $74k
+
+---
+
+![Sales vs target sales ](https://user-images.githubusercontent.com/97677904/209469620-6644f258-5dfa-4859-bd64-9c3dbb823f62.png)
+
+The company target to make the total sales of over $500k over the year was not realised, the total sales made was $391.72k
+
+---
+
+![Sales year segment ](https://user-images.githubusercontent.com/97677904/209469767-e0ad1d1f-3d5d-40c3-8103-ad93bb3ceb54.png)
+
+It shows the trend of sales on yearly basis in correlation with the segment. The highest sales was made in the year '2014' having the 'Consumer' segment as the most sold product in the aforementioned year while the lowest sales was recorded in the year '2012' and the 'Home office' segment as the lowest product sold in this year
+
+---
+
+# Findings and Recommendation
+
+
+
+
+
+
+
+
+
+
+
 
 
 
