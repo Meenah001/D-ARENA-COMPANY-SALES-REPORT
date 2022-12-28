@@ -2,13 +2,13 @@
 
 ---
 
-# INTRODUCTION
+# Introduction
 
 The aim of this project was to clean the badly structured data, also to analyze and visualize using simple visuals for easy interpretation of what sales looks like in D’arena company 
 
 ---
 
-# DATA CLEANING AND TRANSFORMATION
+# Data cleaning and transformation
 
 The data was imported to excel and then loaded to power query for cleaning and transformation. Below shows the steps taken to clean the data;
 
